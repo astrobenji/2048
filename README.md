@@ -1,4 +1,4 @@
-#2048 Solver
+# 2048 Solver
 
 Based on code from Maurits van der Schee (available at: <https://github.com/mevdschee/2048.c>), I developed a program that plays 2048 using a depth-first search algorithm. This simple program was then taught a bunch of heuristics inspired by my own 2048-playing experience, until it could consistently beat my high score. 
 
